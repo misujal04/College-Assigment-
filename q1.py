@@ -7,3 +7,4 @@ print(total)
 n=list(map(int,n))
 print(sum(n))
 print(n)
+#assigment
