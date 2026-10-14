@@ -6,3 +6,4 @@ words.reverse()
 result = " ".join(words)
 
 print("Reversed sentence:", result)
+#end
